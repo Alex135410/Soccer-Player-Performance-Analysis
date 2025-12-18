@@ -76,7 +76,7 @@ Executing the Analysis
 
 Follow these steps to run the project locally:
 
-1.  git clone https://github.com/yourusername/Soccer-Player-Performance-Analysis.gitcd Soccer-Player-Performance-Analysis
+1.  git clone https://github.com/Alex135410/Soccer-Player-Performance-Analysis.git
     
 2.  python3 -m venv venvsource venv/bin/activate # On Windows use: venv\\Scripts\\activate
     
@@ -112,3 +112,4 @@ Follow these steps to run the project locally:
 4.  Data Visualization with Python (Matplotlib & Seaborn)
     
 5.  Documentation & Communication (Markdown explanations, insights, and reporting)
+
