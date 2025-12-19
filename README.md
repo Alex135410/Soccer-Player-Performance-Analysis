@@ -10,7 +10,7 @@ Table of Contents
     
 *   [Environment](#environment)
     
-*   [Executing The Analysis](#ExecutingtheAnalysis)
+*   [Executing](#Executing)
     
 
 Architecture
@@ -71,8 +71,8 @@ To run this project locally, your device should have:
 
 > Recommended to use a virtual environment (e.g., venv) to isolate dependencies.
 
-Executing the Analysis
-----------------------
+Executing
+---------
 
 Follow these steps to run the project locally:
 
@@ -112,6 +112,7 @@ Follow these steps to run the project locally:
 4.  Data Visualization with Python (Matplotlib & Seaborn)
     
 5.  Documentation & Communication (Markdown explanations, insights, and reporting)
+
 
 
 
