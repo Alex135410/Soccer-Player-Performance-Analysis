@@ -10,7 +10,7 @@ Table of Contents
     
 *   [Environment](#environment)
     
-*   Executing the Analysis
+*   [Executing The Analysis](#Executing the Analysis)
     
 
 Architecture
@@ -112,4 +112,5 @@ Follow these steps to run the project locally:
 4.  Data Visualization with Python (Matplotlib & Seaborn)
     
 5.  Documentation & Communication (Markdown explanations, insights, and reporting)
+
 
